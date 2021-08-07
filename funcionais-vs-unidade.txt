@@ -1,0 +1,2 @@
+* Testes funcionais exercitam o sistema como um todo, a partir da mesma interface que os usuários
+* Testes de unidade são mais rápidos e devem ser executados após toda mudança no código.
