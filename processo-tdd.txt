@@ -1,0 +1,6 @@
+No TDD, iniciamos o desenvolvimento criando um testes funcional que especifica a nova funcionalidade.
+Então, identificamos a mínima implementação necessária para fazer o teste funcional passar e criamos testes unitários para verificá-la.
+Após implementar o código mais básico possível que passa os testes, refatoramos e testamos novamente até atingirmos uma qualidade satisfatória.
+
+Testes funcionais guiam o desenvolvimento de funcionalidades,
+enquanto testes unitários guiam a escrita do código em si, e verificam contratos internos do sistema.
